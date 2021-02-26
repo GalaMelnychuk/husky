@@ -28,12 +28,6 @@ import {
 
 declare const global: {HermesInternal: null | {}};
 
-let djfh = 'sdf';
-
-const foo = (a) => {
-  return a;
-};
-
 const App = () => {
   return (
     <>
